@@ -1,0 +1,17 @@
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.deps.json
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.runtimeconfig.json
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.runtimeconfig.dev.json
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.dll
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.pdb
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.core.dll
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\bin\Debug\netcoreapp2.1\quotable.core.pdb
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csprojAssemblyReference.cache
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorAssemblyInfo.cache
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorAssemblyInfo.cs
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.AssemblyInfoInputs.cache
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.AssemblyInfo.cs
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorTargetAssemblyInfo.cache
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csproj.CopyComplete
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.dll
+C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.pdb
