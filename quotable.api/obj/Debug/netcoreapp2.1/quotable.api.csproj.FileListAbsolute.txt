@@ -15,3 +15,20 @@ C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Deb
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csproj.CopyComplete
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.dll
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.deps.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.runtimeconfig.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.runtimeconfig.dev.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.api.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.core.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\bin\Debug\netcoreapp2.1\quotable.core.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csprojAssemblyReference.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csproj.CoreCompileInputs.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorAssemblyInfo.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorAssemblyInfo.cs
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.AssemblyInfoInputs.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.AssemblyInfo.cs
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.RazorTargetAssemblyInfo.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.api\obj\Debug\netcoreapp2.1\quotable.api.csproj.CopyComplete
