@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.console\\quotable.console.csproj": {}
+    "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.console\\quotable.console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.console\\quotable.console.csproj": {
+    "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.console\\quotable.console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.console\\quotable.console.csproj",
+        "projectUniqueName": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.console\\quotable.console.csproj",
         "projectName": "quotable.console",
-        "projectPath": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.console\\quotable.console.csproj",
-        "packagesPath": "C:\\Users\\DOM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.console\\obj\\",
+        "projectPath": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.console\\quotable.console.csproj",
+        "packagesPath": "C:\\Users\\ddevine20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ddevine20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\quotable.core.csproj": {
-                "projectPath": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\quotable.core.csproj"
+              "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\quotable.core.csproj": {
+                "projectPath": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\quotable.core.csproj"
               }
             }
           }
@@ -59,20 +59,20 @@
         }
       }
     },
-    "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\quotable.core.csproj": {
+    "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\quotable.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\quotable.core.csproj",
+        "projectUniqueName": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\quotable.core.csproj",
         "projectName": "quotable.core",
-        "projectPath": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\quotable.core.csproj",
-        "packagesPath": "C:\\Users\\DOM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DOM\\Downloads\\CS480-masterV3\\CS480-master\\quotable\\quotable.core\\obj\\",
+        "projectPath": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\quotable.core.csproj",
+        "packagesPath": "C:\\Users\\ddevine20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ddevine20\\Downloads\\cs480-b-master (2)\\cs480-b-master\\quotable.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ddevine20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,6 +96,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

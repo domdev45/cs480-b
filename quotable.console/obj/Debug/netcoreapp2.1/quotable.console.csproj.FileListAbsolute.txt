@@ -26,3 +26,17 @@ C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.console\obj
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.csproj.CopyComplete
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.dll
 C:\Users\DOM\Downloads\CS480-masterV3\CS480-master\quotable\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.console.deps.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.console.runtimeconfig.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.console.runtimeconfig.dev.json
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.console.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.console.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.core.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\bin\Debug\netcoreapp2.1\quotable.core.pdb
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.csprojAssemblyReference.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.csproj.CoreCompileInputs.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.AssemblyInfoInputs.cache
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.AssemblyInfo.cs
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.csproj.CopyComplete
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.dll
+C:\Users\ddevine20\Downloads\cs480-b-master (2)\cs480-b-master\quotable.console\obj\Debug\netcoreapp2.1\quotable.console.pdb
